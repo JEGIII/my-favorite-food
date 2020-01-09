@@ -17,3 +17,12 @@ Growing up, I was no stranger to Hispanic foods. Over the years, my family and I
 + 1/4 teaspoon Ground Cumin
 + 1 tablespoon pureed Kiwi
 + Salt and Pepper (to taste)
+
+## Directions:
+<ol>
+<li> Thinly slice the steak and place in a bowl.</li>
+<li> Combine the marinade ingredients and add to the steak</li>
+<li> Marinate in the fridge for at least an hour, but not overnight.</li>
+<li> When ready to grill, remove from the fridge and let the meat come to room temperature.</li>
+<li> Heat a cast iron pan on high and cook the steak until nicely browned.</li>
+<li> Serve on warmed corn tortillas with cilantro, onion, hot sauce and limes.</li>
